@@ -1,0 +1,30 @@
+# Zero Trust Architecture Infographic
+
+## Purpose
+
+This infographic explains Zero Trust Architecture as a security model based on continuous verification, least privilege, and assuming threats may already exist inside the environment.
+
+## Concepts Covered
+
+- Verify explicitly
+- Least privilege access
+- Assume breach
+- Network segmentation
+- Identity-based access
+- Continuous monitoring
+
+## Why This Matters in Security Operations
+
+Zero Trust helps security teams reduce risk by limiting trust, monitoring access, and making it harder for attackers to move laterally through an environment.
+
+## Visual
+
+![Zero Trust Architecture Infographic](zero-trust-infographic.png)
+
+## Skills Demonstrated
+
+- Security concept communication
+- Technical writing
+- Visual documentation
+- Architecture awareness
+- Beginner analyst knowledge
